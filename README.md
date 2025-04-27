@@ -118,11 +118,7 @@ Follow these steps to run the project on your local machine:
         SPOTIPY_CLIENT_SECRET=YOUR_CLIENT_SECRET        
         ```
         
-    -   Add `.env` to your `.gitignore` file to prevent it from being uploaded to GitHub (important for security).
-        
-5.  **Add Font Files:**
-    
-    -   Place the `.otf` or `.ttf` font files used for poster drawing into the `fonts/` directory. Ensure they match the names specified in the `fonts` dictionary in `poster_core.py`.
+
         
 
 ## Running the Application
