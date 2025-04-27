@@ -1,0 +1,353 @@
+{
+    "album_type": "album",
+    "total_tracks": 10,
+
+    "external_urls": {
+        "spotify": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
+    },
+    "href": "https://api.spotify.com/v1/albums/4oL7pMxnb04uuRI7ReXmuh",
+    "id": "4oL7pMxnb04uuRI7ReXmuh",
+    "images": [
+        {
+            "url": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+            "height": 640,
+            "width": 640
+        },
+        {
+            "url": "https://i.scdn.co/image/ab67616d00001e0232f5fec7a879ed6ef28f0dfd",
+            "height": 300,
+            "width": 300
+        },
+        {
+            "url": "https://i.scdn.co/image/ab67616d0000485132f5fec7a879ed6ef28f0dfd",
+            "height": 64,
+            "width": 64
+        }
+    ],
+    "name": "Who Really Cares",
+    "release_date": "2016-02-25",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4oL7pMxnb04uuRI7ReXmuh",
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+            },
+            "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+            "id": "0Y6dVaC9DZtPNH4591M42W",
+            "name": "TV Girl",
+            "type": "artist",
+            "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+        }
+    ],
+    "tracks": {
+        "href": "https://api.spotify.com/v1/albums/4oL7pMxnb04uuRI7ReXmuh/tracks?offset=0&limit=50",
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 10,
+        "items": [
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 205650,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/53mChDyESfwn9Dz8poHRf6"
+                },
+                "href": "https://api.spotify.com/v1/tracks/53mChDyESfwn9Dz8poHRf6",
+                "id": "53mChDyESfwn9Dz8poHRf6",
+                "name": "Taking What's Not Yours",
+                "preview_url": null,
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:53mChDyESfwn9Dz8poHRf6",
+                "is_local": false
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 243727,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5ExWCOYjZbMEZCIdlfH2dO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5ExWCOYjZbMEZCIdlfH2dO",
+                "id": "5ExWCOYjZbMEZCIdlfH2dO",
+                "name": "Song About Me",
+                "preview_url": null,
+                "track_number": 2,
+                "type": "track",
+                "uri": "spotify:track:5ExWCOYjZbMEZCIdlfH2dO",
+                "is_local": false
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 198960,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6QeYSvYqYUsfBzsApbjDHO",
+                "id": "6QeYSvYqYUsfBzsApbjDHO",
+                "name": "Cigarettes out the Window",
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+                "is_local": false
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 206623,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7GALElZRLEkzaxZJ7TA0I3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7GALElZRLEkzaxZJ7TA0I3",
+                "id": "7GALElZRLEkzaxZJ7TA0I3",
+                "name": "Till You Tell Me to Leave",
+                "preview_url": null,
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:7GALElZRLEkzaxZJ7TA0I3",
+                "is_local": false
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 167864,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3IznIgmXtrUaoPWpQTy5jB",
+                "id": "3IznIgmXtrUaoPWpQTy5jB",
+                "name": "Not Allowed",
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
+                "is_local": false
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+
+                "disc_number": 1,
+                "duration_ms": 254467,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0N2Nx2lwHuqA203ZXoTwQL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0N2Nx2lwHuqA203ZXoTwQL",
+                "id": "0N2Nx2lwHuqA203ZXoTwQL",
+                "name": "(Do The) Act Like You Never Met Me",
+                "preview_url": null,
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:0N2Nx2lwHuqA203ZXoTwQL",
+                "is_local": false
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+
+                "disc_number": 1,
+                "duration_ms": 216762,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2c4Est3dxGfn834VReid5d"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2c4Est3dxGfn834VReid5d",
+                "id": "2c4Est3dxGfn834VReid5d",
+                "name": "Safeword",
+                "preview_url": null,
+                "track_number": 7,
+                "type": "track",
+                "uri": "spotify:track:2c4Est3dxGfn834VReid5d",
+                "is_local": false
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 215386,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4KHnHCB3KVJeQRHt9PM8uz"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4KHnHCB3KVJeQRHt9PM8uz",
+                "id": "4KHnHCB3KVJeQRHt9PM8uz",
+                "name": "For You",
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:4KHnHCB3KVJeQRHt9PM8uz",
+                "is_local": false
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+
+                "disc_number": 1,
+                "duration_ms": 227000,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7JEzAlwHhCD2M1cYE6BeqJ",
+                "id": "7JEzAlwHhCD2M1cYE6BeqJ",
+                "name": "Loving Machine",
+                "preview_url": null,
+                "track_number": 9,
+                "type": "track",
+                "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+                "is_local": false
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+                        "id": "0Y6dVaC9DZtPNH4591M42W",
+                        "name": "TV Girl",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 278839,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0REaf0xqIOxEXGZgOXfrCW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0REaf0xqIOxEXGZgOXfrCW",
+                "id": "0REaf0xqIOxEXGZgOXfrCW",
+                "name": "Heaven Is a Bedroom",
+                "preview_url": null,
+                "track_number": 10,
+                "type": "track",
+                "uri": "spotify:track:0REaf0xqIOxEXGZgOXfrCW",
+                "is_local": false
+            }
+        ]
+    },
+    "copyrights": [
+        {
+            "text": "2016 TV Girl",
+            "type": "C"
+        },
+        {
+            "text": "2016 TV Girl",
+            "type": "P"
+        }
+    ],
+    "external_ids": {
+        "upc": "190394310509"
+    },
+    "genres": [],
+    "label": "TV Girl",
+    "popularity": 84
+}
