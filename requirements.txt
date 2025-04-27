@@ -1,5 +1,6 @@
+Pillow
+configparser
+streamlit
 spotipy
 requests
-inquirer
-Pillow
-yaspin
+python-dotenv
