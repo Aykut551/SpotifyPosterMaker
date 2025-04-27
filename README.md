@@ -64,8 +64,6 @@ The project has the following file and directory structure:
 │   └── tr.lang         # Turkish language strings.
 ├── languages.py        # Python module that loads language strings by reading .lang files in the 'lang' directory.
 └── poster_core.py      # Python module containing the core logic for poster creation and drawing. Used by gui.py.
-
-
 ```
 
 ## Installation
