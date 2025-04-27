@@ -96,8 +96,6 @@ Follow these steps to run the project on your local machine:
     pip install -r requirements.txt
     ```
     
-    _(Make sure the `requirements.txt` file is in the project's root directory. If not, you can generate it using `pip freeze > requirements.txt`.)_
-    
 4.  **Set Up Spotify API Credentials (Required for Spotify Search):**
     
     -   This step is **only necessary if you want to use the "Spotify Search" feature** to find albums online. If you only plan to use the "Local JSON File" option, you can skip this step.
