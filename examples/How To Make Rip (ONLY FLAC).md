@@ -8,26 +8,26 @@ Before you run the script, you need to install the `mutagen` library to handle F
 
 ### Install Mutagen
 
-Run the following command to install the necessary library:
+-   Run the following command to install the necessary library:
 
    ```
     pip install mutagen
    ```
 
 **Instructions**
-1. Prepare Your FLAC Files
+### 1. Prepare Your FLAC Files
 
-    •Place the FLAC files from your CD rip into a folder. These files will be processed by the script.
+  -   Place the FLAC files from your CD rip into a folder. These files will be processed by the script.
 
-2. Create the Python Script
+### 2. Create the Python Script
 
-    •Inside the folder containing your FLAC files, create a new Python file (e.g., generate_playlist.py).
+  -   Inside the folder containing your FLAC files, create a new Python file (e.g., generate_playlist.py).
 
-3. Edit the Python Script
+### 3. Edit the Python Script
 
-    •Copy and paste the following code into your Python file.
+ -   Copy and paste the following code into your Python file.
 
-    •Modify the variables in the script to reflect the correct album name, artist name, and any other necessary   details.
+ -   Modify the variables in the script to reflect the correct album name, artist name, and any other necessary   details.
 
 ```
 import os
