@@ -77,20 +77,18 @@ Follow these steps to run the project on your local machine:
     ```
     git clone https://github.com/Aykut551/SpotifyPosterMaker.git
     cd SpotifyPosterMaker
-    
-    
-    
     ```
     
     
 2.  **Create a Python Virtual Environment (Recommended):**
     
     ```
+    
     python -m venv venv
+    
     source venv/bin/activate   # Linux/macOS
-    # venv\Scripts\activate    # Windows
     
-    
+    venv\Scripts\activate    # Windows
     
     ```
     
@@ -98,9 +96,6 @@ Follow these steps to run the project on your local machine:
     
     ```
     pip install -r requirements.txt
-    
-    
-    
     ```
     
     _(Make sure the `requirements.txt` file is in the project's root directory. If not, you can generate it using `pip freeze > requirements.txt`.)_
@@ -121,10 +116,7 @@ Follow these steps to run the project on your local machine:
         
         ```
         SPOTIPY_CLIENT_ID=YOUR_CLIENT_ID
-        SPOTIPY_CLIENT_SECRET=YOUR_CLIENT_SECRET
-        
-        
-        
+        SPOTIPY_CLIENT_SECRET=YOUR_CLIENT_SECRET        
         ```
         
     -   Add `.env` to your `.gitignore` file to prevent it from being uploaded to GitHub (important for security).
@@ -140,9 +132,6 @@ To run the application, open your terminal, navigate to the project's root direc
 
 ```
 streamlit run gui.py
-
-
-
 ```
 
 This command will start the Streamlit application and open it in your default web browser.
