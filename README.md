@@ -27,6 +27,7 @@ This project is a Python application that allows you to create customizable albu
 -   **Spotify Integration:** Search for albums directly from the Spotify API and fetch their information (album name, artist, tracks, cover art). **Requires Spotify API credentials.**
     
 -   **Local File Support:** Load album data from a local JSON file (Spotify API format or similar). You can also upload album cover art from a local image file. **Does NOT require Spotify API credentials.**
+-   [Example Jsons](https://github.com/Aykut551/SpotifyPosterMaker/tree/master/examples)
     
 -   **Customizable Posters:**
     
