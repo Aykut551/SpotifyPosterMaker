@@ -1,0 +1,368 @@
+{
+    "name": "Hayalet Islığı",
+    "description": "Yerel klasörden oluşturulan çalma listesi: Hayalet Islığı",
+    "owner": {
+        "display_name": "Farazi V Kayra"
+    },
+    "tracks": {
+        "total": 15,
+        "items": [
+            {
+                "track": {
+                    "name": "Dokunmayarayaparsın",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 105880,
+
+                    "uri": "local:Dokunmayarayaparsın",
+                    "is_local": true,
+                    "track_number": 1,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Cenaze I: Ölüler Konuşamaz",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 222426,
+
+                    "uri": "local:Cenaze I: Ölüler Konuşamaz",
+                    "is_local": true,
+                    "track_number": 2,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Cenaze II: Kolonya",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 189920,
+
+                    "uri": "local:Cenaze II: Kolonya",
+                    "is_local": true,
+                    "track_number": 3,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Cenaze III: Merhumun Çalıntı Gölgesi",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra feat. feat. Ağaçkakan, Type Wheel"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 292186,
+
+                    "uri": "local:Cenaze III: Merhumun Çalıntı Gölgesi",
+                    "is_local": true,
+                    "track_number": 4,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Mevsim Olmayan Mekanlar I: Fotoğraflarda Ölümü Görüyorum",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 71120,
+
+                    "uri": "local:Mevsim Olmayan Mekanlar I: Fotoğraflarda Ölümü Görüyorum",
+                    "is_local": true,
+                    "track_number": 5,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Mevsim Olmayan Mekanlar II: Ayaz Meyhanesi",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra feat. Vinyl Obscura"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 225813,
+
+                    "uri": "local:Mevsim Olmayan Mekanlar II: Ayaz Meyhanesi",
+                    "is_local": true,
+                    "track_number": 6,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Mevsim Olmayan Mekanlar III: (Bir) Fotoğrafın Rüyası",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra feat. Vinyl Obscura"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 219920,
+
+                    "uri": "local:Mevsim Olmayan Mekanlar III: (Bir) Fotoğrafın Rüyası",
+                    "is_local": true,
+                    "track_number": 7,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Mevsim Olmayan Mekanlar IV: Bir Eve Hangi Gün Gidilmez?",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 228066,
+
+                    "uri": "local:Mevsim Olmayan Mekanlar IV: Bir Eve Hangi Gün Gidilmez?",
+                    "is_local": true,
+                    "track_number": 8,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Mevsim Olmayan Mekanlar V: Unutulanlar",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra feat. Karaçalı, Vinyl Obscura"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 211920,
+
+                    "uri": "local:Mevsim Olmayan Mekanlar V: Unutulanlar",
+                    "is_local": true,
+                    "track_number": 9,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Mevsim Olmayan Mekanlar VI: Kar",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra feat. Vinyl Obscura"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 253960,
+
+                    "uri": "local:Mevsim Olmayan Mekanlar VI: Kar",
+                    "is_local": true,
+                    "track_number": 10,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Vakitsiz",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra feat. Vinyl Obscura"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 155040,
+
+                    "uri": "local:Vakitsiz",
+                    "is_local": true,
+                    "track_number": 11,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Yangın I: Sakin",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 155760,
+
+                    "uri": "local:Yangın I: Sakin",
+                    "is_local": true,
+                    "track_number": 12,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Yangın II: Sandığımdan Herkes Babam Gibi Gülecek",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra feat. Sorgu"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 220920,
+
+                    "uri": "local:Yangın II: Sandığımdan Herkes Babam Gibi Gülecek",
+                    "is_local": true,
+                    "track_number": 13,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Yangın III: 15 Eylül 1966",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra feat. Da Poet"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 196946,
+
+                    "uri": "local:Yangın III: 15 Eylül 1966",
+                    "is_local": true,
+                    "track_number": 14,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "name": "Dobro Vecer",
+                    "artists": [
+                        {
+                            "name": "Farazi V Kayra feat. Vinyl Obscura"
+                        }
+                    ],
+                    "album": {
+                        "name": "Hayalet Islığı",
+                        "release_date": "2013"
+                    },
+                    "duration_ms": 505280,
+
+                    "uri": "local:Dobro Vecer",
+                    "is_local": true,
+                    "track_number": 15,
+                    "disc_number": 1,
+                    "external_urls": {},
+
+                    "type": "track"
+                }
+            }
+        ]
+    },
+    "public": false,
+    "collaborative": false,
+    "followers": {
+        "total": 0
+    },
+    "id": null,
+    "uri": "local:playlist:Hayalet Islığı",
+    "external_urls": {},
+    "href": null,
+    "images": [],
+    "type": "playlist"
+}
