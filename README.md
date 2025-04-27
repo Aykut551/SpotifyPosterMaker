@@ -20,6 +20,8 @@ This project is a Python application that allows you to create customizable albu
 -   [Contributing](#contributing "null")
     
 -   [License](#license "null")
+
+-   [How To Make CD Rip](https://github.com/Aykut551/SpotifyPosterMaker/blob/master/examples/How%20To%20Make%20Rip%20(ONLY%20FLAC).md)
     
 
 ## Features
